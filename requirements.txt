@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+# openai
+langchain 
+openpyxl
+openai==0.28
+databutton
